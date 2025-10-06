@@ -86,8 +86,7 @@ if _name_ == "_main_":
 ```
 
 ## Output:
-![alt text](image-1.png)
-
+<img width="752" height="396" alt="Screenshot 2025-10-07 011309" src="https://github.com/user-attachments/assets/df7c835f-483d-4798-ac46-4094ddefc0a8" />
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
